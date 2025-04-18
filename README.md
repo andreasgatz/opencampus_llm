@@ -1,4 +1,4 @@
 # opencampus_llm
 Opencampus.sh From LLM to AI Agents
 
-Project Idea -> RAG for large documents - create summaries - memory control
+Project Idea -> Q&A RAG for extensive documents - create summaries - memory management
